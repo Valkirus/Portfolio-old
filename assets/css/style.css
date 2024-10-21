@@ -92,6 +92,7 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
+  font-weight: bold;
   color: rgba(0, 0, 0, 0.8);
 }
 
@@ -123,6 +124,7 @@ h6 {
   border-radius: 50%;
   width: 40px;
   height: 40px;
+  font-weight: bold;
 }
 
 #header .social-links a:hover {
@@ -233,6 +235,7 @@ h6 {
   color: rgba(0, 0, 0, 0.7);
   white-space: nowrap;
   transition: 0.3s;
+  font-weight: bold;
 }
 
 .navbar a i,
