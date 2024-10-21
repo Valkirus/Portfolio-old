@@ -32,7 +32,7 @@ body::before {
 
 @media (min-width: 1024px) {
   body::before {
-    background-size: cover;
+    background-position-y: 20%;
     background-attachment: fixed;
   }
 }
