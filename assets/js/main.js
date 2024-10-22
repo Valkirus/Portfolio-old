@@ -256,10 +256,10 @@
       loop: true,
       typeSpeed: 100,
       backSpeed: 50,
-      backDelay: 10000
+      backDelay: 4000
     });
   }
-
+  
   /**
    * Initiate Pure Counter 
    */
