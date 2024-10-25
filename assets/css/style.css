@@ -1003,6 +1003,7 @@ section .container {
 }
 
 .portfolio-image {
+  scale: auto;
   width: 500px;
   height: 500px;
 }
